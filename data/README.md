@@ -1,5 +1,5 @@
 # Dataset Description
-This dataset contains 2,216 pieces of policy information related to the environment and climate, along with their links, which were crawled by the author using tools. Due to the extremely large volume of data, for the convenience of use in this Problem Set, approximately 200 policy - related links were selected from it and saved as 2_PSCC_Policy_Pool_200.
+This dataset from scientific data, contains 2,216 pieces of policy information related to the environment and climate, along with their links, which were crawled by the author using tools. Due to the extremely large volume of data, for the convenience of use in this Problem Set, approximately 200 policy - related links were selected from it and saved as 2_PSCC_Policy_Pool_200.
 
 ## Dataset Dictionary
 ### UID
